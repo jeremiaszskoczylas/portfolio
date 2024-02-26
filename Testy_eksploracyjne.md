@@ -7,7 +7,7 @@ Wintryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celac
 # Znalezione błędy
 
 ## Strona główna
-- Bład w pisowni przycisku "CATEGORIES" zamiast "CATERGIES"
+- Błąd w pisowni przycisku "CATEGORIES" zamiast "CATERGIES"
 - Przyciski "Shop" oraz "CATERGIES" są domyślnie podświetlone
 - Brakuję zdjęcia produktu o nazwię "Black Top"
 - Po kliknięciu w przycisk "Shop Now" przekierowuje nas do strony z błedem w linku http://./product-category/most-wanted/
