@@ -15,3 +15,8 @@ Nazywam się Jeremaisz Skoczylas, obecnie jestem studentem informatyki zajawiony
 - Tworzenie test case-ów
 - Raportowanie błędów
 - Agile Scrum/Kanban
+# 🏅 Certyfikaty
+- Certyfikat ISTQB (CTFL)
+- Praktyczny kurs testowania na platformie Udemy
+
+
