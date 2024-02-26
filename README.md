@@ -10,3 +10,8 @@ Nazywam się Jeremaisz Skoczylas, obecnie jestem studentem informatyki zajawiony
 - DevTools
 - Hyper-V
 - Git
+# Umiejętności
+- Tworzenie test planu
+- Tworzenie test case-ów
+- Raportowanie błędów
+- Agile Scrum/Kanban
