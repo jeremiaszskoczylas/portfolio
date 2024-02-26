@@ -17,7 +17,7 @@ Wintryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celac
 - Cena prduktów w koszyku nie aktualizuje się automatycznie na stronie głównej
 
 ## Stopka(Newsletter)
-- Możliwość zapisania sie do newslettera błedym mailem
+- Możliwość zapisania sie do newslettera błędym mailem
 ## Blog
 - Po prawej stronie pojawiają się dwa pola wyszukiwania
 ## Koszyk
@@ -25,5 +25,6 @@ Wintryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celac
 - Brak możliwości usuwania produktów "krzyżkiem"
 - Żle wycentrowany "krzyżyk na przycisku
 - Po zwiększeniu ilości sztuk i zaaktualizowaniu ta możliwość znika
-- 
-
+- Błędnie liczy cene końcową zamówienia
+## Checkout
+- Brak możliwości dodania alternatywnego adresu
