@@ -1,7 +1,7 @@
 # Testy eksploracyjne Strony internetowej https://skleptest.pl/
 
 # Opis
-Wintryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach szkolenia umiejętności testowania.
+Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach szkolenia umiejętności testowania.
 
 
 # Znalezione błędy
