@@ -3,8 +3,6 @@
 # Opis
 Wintryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach szkolenia umiejętności testowania.
 
-# Ścieżki eksploracyjne
-
 
 # Znalezione błędy
 
