@@ -1,1 +1,1 @@
-![tu powinien być obrazek](/images/test_cases.jpg "Test Cases")
+![tu powinien być obrazek](/images/test_cases.png "Test Cases")
