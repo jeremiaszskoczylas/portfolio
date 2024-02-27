@@ -8,7 +8,7 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 
 ## Strona główna
 - Błąd w pisowni przycisku "CATERGIES" zamiast "CATEGORIES"
-![tu powinien być obrazek](portfolio/skleptest.pl/images/podswietlenie.png "błąd w pisowni")
+![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/podswietlanie.png?raw=true "błąd w pisowni")
 - Przyciski "Shop" oraz "CATERGIES" są domyślnie podświetlone
 ![tu powinien być obrazek](/images/podswietlenie.png "błąd stylistyczny")
 - Brakuję zdjęcia produktu o nazwię "Black Top"
