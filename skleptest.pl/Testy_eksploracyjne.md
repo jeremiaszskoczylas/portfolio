@@ -9,7 +9,7 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 ## Strona główna
 - Błąd w pisowni przycisku "CATERGIES" zamiast "CATEGORIES".
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/main/skleptest.pl/images/podswietlanie.png?raw=true "błąd w pisowni")
-- Przyciski "Shop" oraz "CATERGIES" są domyślnie podświetlone
+- Przyciski "Shop" oraz "CATERGIES" są domyślnie podświetlone.
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/main/skleptest.pl/images/podswietlanie.png?raw=true "błąd w stylistyczny")
 - Brakuję zdjęcia produktu o nazwię "Black Top".
 - $~$
@@ -28,13 +28,13 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 - $~$
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/main/skleptest.pl/images/newsletter.png?raw=true "błąd walidacji")
 ## Blog
-- Po prawej stronie pojawiają się dwa pola wyszukiwania
+- Po prawej stronie pojawiają się dwa pola wyszukiwania.
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/main/skleptest.pl/images/2_wyszukiwarki.png?raw=true "błąd stylistyczny")
 ## Koszyk
 - Jednostka "zł" znajduję się nad ceną zamiast zaraz za nią.
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/main/skleptest.pl/images/koszyk_cena.png?raw=true "błąd stylistyczny")
 - Brak możliwości usuwania produktów "krzyżkiem".
-- Źle wycentrowany "krzyżyk" na przycisku
+- Źle wycentrowany "krzyżyk" na przycisku.
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/main/skleptest.pl/images/koszyk_krzyzyki.png?raw=true "błąd stylistyczny")
 - Po zwiększeniu ilości sztuk i zaaktualizowaniu ta możliwość znika.
 
