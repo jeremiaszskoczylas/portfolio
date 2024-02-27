@@ -10,9 +10,9 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 - Błąd w pisowni przycisku "CATERGIES" zamiast "CATEGORIES"
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/podswietlanie.png?raw=true "błąd w pisowni")
 - Przyciski "Shop" oraz "CATERGIES" są domyślnie podświetlone
-![tu powinien być obrazek](/images/podswietlenie.png "błąd stylistyczny")
+![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/podswietlanie.png?raw=true "błąd w stylistyczny")
 - Brakuję zdjęcia produktu o nazwię "Black Top"
-![tu powinien być obrazek](/images/brak_zdjecia.png "błąd braku zdjęcia")
+![tu powinien być obrazek]([/images/brak_zdjecia.png](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/brak_zdjecia.png?raw=true) "błąd braku zdjęcia")
 - Po kliknięciu w przycisk "Shop Now" przekierowuje nas do strony z błędem w linku http://./product-category/most-wanted/
 ![tu powinien być obrazek](/images/blad_strony.png "błąd w linku")
 - Po kliknięciu w "Learn More" przekierowuje nas do strony z formularzem kontaktowym
