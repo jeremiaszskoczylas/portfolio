@@ -34,7 +34,7 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 - Jednostka "zł" znajduję się nad ceną zamiast zaraz za nią
 
 - Brak możliwości usuwania produktów "krzyżkiem"
-- Żle wycentrowany "krzyżyk" na przycisku
+- Źle wycentrowany "krzyżyk" na przycisku
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/koszyk_krzyzyki.png?raw=true "błąd stylistyczny")
 - Po zwiększeniu ilości sztuk i zaaktualizowaniu ta możliwość znika
 
