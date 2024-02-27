@@ -39,4 +39,4 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 - Po zwiększeniu ilości sztuk i zaaktualizowaniu ta możliwość znika
 
 ## Checkout
-- Brak możliwości dodania alternatywnego adresu
+- Brak możliwości dodania alternatywnego adresu.
