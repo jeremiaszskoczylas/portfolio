@@ -22,7 +22,7 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 - Cena prduktów w koszyku nie aktualizuje się automatycznie na stronie głównej
 
 ## Stopka(Newsletter)
-- Możliwość zapisania sie do newslettera błędym mailem
+- Możliwość zapisania sie do newslettera błędnym mailem
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/newsletter.png?raw=true "błąd walidacji")
 ## Blog
 - Po prawej stronie pojawiają się dwa pola wyszukiwania
