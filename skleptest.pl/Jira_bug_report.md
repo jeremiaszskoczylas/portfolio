@@ -1,0 +1,1 @@
+![tu powinien być obrazek](/images/bug_report.jpg "Bug report")
