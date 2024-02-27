@@ -12,6 +12,7 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 - Przyciski "Shop" oraz "CATERGIES" są domyślnie podświetlone
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/podswietlanie.png?raw=true "błąd w stylistyczny")
 - Brakuję zdjęcia produktu o nazwię "Black Top"
+- $~$
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/brak_zdjecia.png?raw=true "błąd braku zdjęcia")
 - Po kliknięciu w przycisk "Shop Now" przekierowuje nas do strony z błędem w linku http://./product-category/most-wanted/
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/blad_strony.png?raw=true "błąd w linku")
