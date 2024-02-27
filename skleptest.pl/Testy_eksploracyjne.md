@@ -18,7 +18,8 @@ Witryna skleptest.pl jest przykładowym sklepem internetowym stworzonym w celach
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/blad_strony.png?raw=true "błąd w linku")
 - Po kliknięciu w "Learn More" przekierowuje nas do strony z formularzem kontaktowym
 - Przycisk "View cart" nie podejmuje żadnej akcji
-- Błędne formatowanie koszyka, jednostka waluty znajduje sie przed ceną 
+- Błędne formatowanie koszyka, jednostka waluty znajduje sie przed ceną
+- $~$
 ![tu powinien być obrazek](https://github.com/jeremiaszskoczylas/portfolio/blob/prackowanie/skleptest.pl/images/koszyk_formatowanie.png?raw=true "błąd formatowania")
 - Cena prduktów w koszyku nie aktualizuje się automatycznie na stronie głównej
 
